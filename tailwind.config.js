@@ -6,8 +6,6 @@ module.exports = {
   theme: {
     extend: {},
   },
-  variants: {
-    maxWidth: ["responsive"],
-  },
+  variants: {},
   plugins: [],
 };
